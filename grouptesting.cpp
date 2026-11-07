@@ -6,7 +6,7 @@ int main() {
     cout << "hello, Logatiman" << endl;
     cout << "hello, Piedraverde" << endl;
     cout << "hello, Notarte" << endl;
-    cout << "hello, Sarte" << endl;
+    cout << "hello,Xian Sarte" << endl;
 
     return 0;
 }
